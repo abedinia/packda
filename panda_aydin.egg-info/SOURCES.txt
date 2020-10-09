@@ -1,0 +1,7 @@
+README.md
+setup.py
+panda_aydin/__init__.py
+panda_aydin.egg-info/PKG-INFO
+panda_aydin.egg-info/SOURCES.txt
+panda_aydin.egg-info/dependency_links.txt
+panda_aydin.egg-info/top_level.txt

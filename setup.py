@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-panda",
+    name="panda_aydin",
     version="0.0.1",
     author="Aydin Abedinia",
     author_email="aydin@abedinia.info",
